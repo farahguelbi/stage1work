@@ -1,0 +1,7 @@
+n1="consultation"
+n2="auxilaires medicaux"
+g1="ex11"
+g2="ex12"
+nomgamme="full santé "
+nomligne1="complementaire santé1"
+nomproduit="full santé1"
